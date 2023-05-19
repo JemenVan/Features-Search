@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Features2-search, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\7.0.200\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(28,5): warning NETSDK1138: The target framework 'net5.0' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy.
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Features2-search -> C:\Users\Jen\source\repos\Features2-search\bin\Debug\net5.0\Features2-search.dll
+1>Done building project "Features2-search.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:08 PM and took 03.762 seconds ==========
